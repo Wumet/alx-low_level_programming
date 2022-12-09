@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main-prints using printf
- * return-void
+ * main - prints using printf
+ * Return: Always 0
  */
-/*this is a main function*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");

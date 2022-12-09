@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main-prints using printf
- * return-always 0
+ * main - entry point
+ * Return: Always 0 (success)
  */
-/*this is a main function*/
 int main(void)
 {
 	char c;
