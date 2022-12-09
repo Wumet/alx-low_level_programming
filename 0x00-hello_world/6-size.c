@@ -3,7 +3,7 @@
  * main-prints using printf
  * return-always 0
  */
-
+/*this is a main function*/
 int main(void)
 {
 	char c;
