@@ -25,5 +25,11 @@ int _islower(int c);
 *_isalpha - checks for alphabetic character
 *@c: character to be checked
 *Return: 1 or 0
-*/int _isalpha(int c); 
+*/int _isalpha(int c);
+/**
+*print_sign - prints the sign of a number 
+*@n: number to be checked
+*Return: 0, 1 or -1
+*/
+int print_sign(int n); 
 #endif
