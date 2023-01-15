@@ -6,4 +6,11 @@
 *Return: 1 0r 0
 */
 int _putchar(char c);
+/**
+*print_alphabet - prints alphabet
+*
+*/
+void print_alphabetvoid);
+
+
 #endif
