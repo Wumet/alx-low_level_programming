@@ -10,7 +10,7 @@ int _putchar(char c);
 *print_alphabet - prints alphabet
 *
 */
-void print_alphabetvoid);
+void print_alphabet(void);
 
 
 #endif
