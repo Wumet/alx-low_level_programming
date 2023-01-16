@@ -37,5 +37,11 @@ int print_sign(int n);
 *@i: number to be computed
 *Return: absolute value of i
 */
-int _abs(int i); 
+int _abs(int i);
+/**
+*print_last_digit - prints the last digit of a number
+*@i: number to be checked
+*Return: the last of i
+*/
+int print_last_digit(int i);
 #endif
