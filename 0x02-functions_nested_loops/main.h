@@ -31,5 +31,11 @@ int _islower(int c);
 *@n: number to be checked
 *Return: 0, 1 or -1
 */
-int print_sign(int n); 
+int print_sign(int n);
+/**
+*_abs - computes the absolute value of an integer
+*@i: number to be computed
+*Return: absolute value of i
+*/
+int _abs(int i); 
 #endif
